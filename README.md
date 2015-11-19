@@ -1,2 +1,2 @@
 # eloquent-javascript
-Eloqyent Javascript Repo
+Eloquent Javascript Repo
